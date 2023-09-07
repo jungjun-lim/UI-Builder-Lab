@@ -1,5 +1,5 @@
 remote_theme: just-the-docs/just-the-docs
-#logo: "docs/images/servicenow-logo.png"
+logo: "images/sn-logo.png"
 title: UI Builder Lab
 description: UI Builder Lab for Partners
 baseurl: "/" # the subpath of your site, e.g. /blog
