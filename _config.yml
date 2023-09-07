@@ -3,7 +3,7 @@ logo: "images/sn-logo.png"
 title: UI Builder Lab
 description: UI Builder Lab for Partners
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jungjun-lim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jungjun-lim.github.io/UI-Builder-Lab" # the base hostname & protocol for your site, e.g. http://example.com
 back_to_top: true
 back_to_top_text: "Back to the Top"
 footer_content: ServiceNow Korea
