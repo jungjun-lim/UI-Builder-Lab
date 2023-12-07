@@ -6,7 +6,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jungjun-lim.github.io/UI-Builder-Lab" # the base hostname & protocol for your site, e.g. http://example.com
 back_to_top: true
 back_to_top_text: "Back to the Top"
-footer_content: ServiceNow Korea
+footer_content: ServiceNow Korea Partner Solution Consulting
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
